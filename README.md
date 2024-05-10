@@ -1,6 +1,7 @@
 # Ex. No : 3	
 # GENERATION OF LEXICAL TOKENS USING C
 ## Register Number : 212223220017
+## Date : 22/02/2024
 
 ## AIM   
 To write a C program to implement lexical analyzer to recognize a few patterns.
